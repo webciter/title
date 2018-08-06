@@ -5,7 +5,7 @@
      * Page title scrolling and flashing class
      * @para object options the options for the class
      */
-    function Title(options = {}){
+    window.Title = function(options = {}){
 
         var self = this;
         this.options = options;
