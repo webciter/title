@@ -1,4 +1,3 @@
-(function(){
 
     /* 
      * Title
@@ -114,8 +113,6 @@
         }
     }
 
-    return Title();
 
 
     
-});
